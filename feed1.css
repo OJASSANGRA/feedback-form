@@ -1,0 +1,98 @@
+
+body{
+    
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9syzsGPpYiaKnC86-rXyOs_XNFv0-Hhm8g&usqp=CAU") ;
+    width: 100%;
+    
+    
+}
+.cor{
+    position:relative;
+    width:10%;
+    margin-top:0%;
+    opacity:0.8;
+}
+.rob{
+    position:relative;
+    width: 10%;
+   margin-top: 2px;
+}
+
+.feedback-form{
+    background: #fff;
+    margin-top: 2%;
+    margin-bottom:6%;
+ 
+    border-radius: 95px;
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+ 
+    
+}
+
+.feedback-form .form-control{
+    border-radius: 1rem;
+    background-color: rgb(240, 240, 240);
+  
+}
+.feedback-image{
+    text-align: center;
+}
+.feedback-image img{
+    border-radius: 6rem;
+    width: 11%;
+    margin-top: -3%;
+    transform: rotate(29deg);
+}
+
+.feedback-form form{
+    padding: 10%;
+}
+.feedback-form form .row{
+    margin-bottom: -7%;
+
+}
+.feedback-form h2{
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: #0062cc;
+}
+.feedback-form button{
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background:skyblue;
+    color: #fff;
+    cursor:pointer;
+    
+
+}
+
+.feedback-form p{
+    margin-top: 10px;
+    margin-bottom:3px ;
+    color: gray;
+}
+.alert{
+width: 100%;
+background-color: rgb(85, 244, 244);
+padding: 10px 20px;
+border-radius: 5px;
+text-align: center;
+font-size: 18px;
+font-weight: 900;
+display: none;
+
+
+}
+
+button:hover {
+   
+    color: white;
+
+    transform: translateY(-0.15em);
+
+}
